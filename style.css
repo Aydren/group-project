@@ -36,3 +36,10 @@ main h2 {
     background-color: lightblue;
     padding: 3px;
 }
+
+.Adrian-style {
+    color: forestgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    text-align: center;
+}
